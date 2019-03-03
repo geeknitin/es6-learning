@@ -50,8 +50,4 @@
   </li>
   <li> <b> Generators </B> : are used to pause the functions at a yield points</li>
   <li> <b> Sets </B> </li>
-    
-   
-   
-
 </ul>
