@@ -1,7 +1,7 @@
 <h2> ES6 / ES2015 features  </h2> 
 
 <ul>
-<li> Use const , let instead of var </li>
+   <li> Use <b> const </b>, <b> let </b> instead of var </li>
 <li> Arrows (=>) in ES2015 provide a friendly function shorthand for performing common tasks.  </li>
 <li> Default function parameters value </li>
 <li> Using<b> template strings </B> </li>
